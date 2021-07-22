@@ -1,3 +1,4 @@
+#make sin-curve
 path = './sin.txt'
 f = open(path, 'w')
 
